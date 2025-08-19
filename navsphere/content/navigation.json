@@ -991,6 +991,14 @@
               "description": "Effortlessly access to The Pirate Bay: securely download music, movies, software, and games in 2024.",
               "icon": "https://www.pirateproxy.space/images/pirat.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1755595052567_xzati9yf1",
+              "title": "玖大猫",
+              "href": "http://www.9dmgamemod.com/",
+              "description": "破解游戏站",
+              "icon": " http://www.9dmgamemod.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
