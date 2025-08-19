@@ -1007,6 +1007,14 @@
               "description": "破解游戏站",
               "icon": " http://www.9dmgamemod.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755595285139_fs8sz6mrx",
+              "title": "游侠",
+              "href": "https://game.ali213.net/",
+              "description": "访问 game.ali213.net",
+              "icon": " https://game.ali213.net/favicon.ico",
+              "enabled": true
             }
           ]
         },
