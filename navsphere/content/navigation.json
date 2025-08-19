@@ -118,6 +118,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1755595204876_aqaz7cfbp",
+          "title": "求职方舟AI",
+          "href": "https://www.qiuzhifangzhou.com/campus",
+          "description": "用DeepSeek做的应届生找工作AI工具集合，包括：大厂招聘官网AI自动填简历、简历优化魔改代写、大厂校招内推实习信息汇总表、个人投递进展管理表等等，为大学生校招找工作赋能。AI驱动方舟，载你冲破求职暗夜。",
+          "icon": "https://www.qiuzhifangzhou.com/imgs/logo22.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
