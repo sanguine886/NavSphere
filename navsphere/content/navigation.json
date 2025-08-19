@@ -960,7 +960,16 @@
       "description": "来着群U的好东西",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "352da169-2ce2-461f-b2ba-7af91410b215",
+          "title": "Game",
+          "icon": "Zap",
+          "description": "游戏资源",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
