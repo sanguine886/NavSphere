@@ -900,6 +900,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1755589080207",
+      "title": "我的",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
