@@ -4,10 +4,10 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_ID = "Ov23lig3bTXpZHrPO1c8"
-GITHUB_OWNER = "tianyaxiang"
+GITHUB_ID = "Ov23libV11IIzk0kOjG5"
+GITHUB_OWNER = "sanguine886"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://dh.leti.ltd/api/auth"
-NEXT_PUBLIC_API_URL="https://dh.leti.ltd"
+NEXTAUTH_URL = "https://browse.sanguine.qzz.io/api/auth"
+NEXT_PUBLIC_API_URL="https://browse.sanguine.qzz.io"
 
