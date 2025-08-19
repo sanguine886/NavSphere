@@ -941,6 +941,14 @@
           "description": "Memm百宝箱",
           "icon": "https://sf1-scmcdn-cn.feishucdn.com/obj/lark-reaction-cn/purple_baseV2.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755593996132_654gcobbz",
+          "title": "阅读源",
+          "href": "https://legado.aoaostar.com/",
+          "description": "阅读APP源",
+          "icon": "https://www.aoaostar.com/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
