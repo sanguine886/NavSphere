@@ -12,7 +12,7 @@
           "title": "MoonTV",
           "href": "https://tv.sanguine.qzz.io/",
           "description": "影视聚合",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tv.sanguine.qzz.io",
+          "icon": "https://tv.sanguine.qzz.io/icons/icon-192x192.png",
           "enabled": true
         },
         {
