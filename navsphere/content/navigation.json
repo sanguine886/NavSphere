@@ -6,7 +6,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1755589148518_q4kka5kw4",
+          "title": "MoonTV",
+          "href": "https://tv.sanguine.qzz.io/",
+          "description": "影视聚合",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tv.sanguine.qzz.io",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
