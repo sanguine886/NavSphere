@@ -20,7 +20,7 @@
           "title": "NavSphere导航",
           "href": "https://browse.sanguine.qzz.io/",
           "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
-          "icon": "/assets/favicon_1755589161457.png",
+          "icon": "https://browse.sanguine.qzz.io/assets/images/alogo.png",
           "enabled": true
         }
       ],
