@@ -1,6 +1,32 @@
 {
   "navigationItems": [
     {
+      "id": "1755589080207",
+      "title": "我的",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1755589148518_q4kka5kw4",
+          "title": "MoonTV",
+          "href": "https://tv.sanguine.qzz.io/",
+          "description": "影视聚合",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tv.sanguine.qzz.io",
+          "enabled": true
+        },
+        {
+          "id": "site_1755589168814_s3whga12i",
+          "title": "NavSphere导航",
+          "href": "https://browse.sanguine.qzz.io/",
+          "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
+          "icon": "/assets/favicon_1755589161457.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -97,32 +123,6 @@
       "subCategories": [],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1755589080207",
-      "title": "我的",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1755589148518_q4kka5kw4",
-          "title": "MoonTV",
-          "href": "https://tv.sanguine.qzz.io/",
-          "description": "影视聚合",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tv.sanguine.qzz.io",
-          "enabled": true
-        },
-        {
-          "id": "site_1755589168814_s3whga12i",
-          "title": "NavSphere导航",
-          "href": "https://browse.sanguine.qzz.io/",
-          "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
-          "icon": "/assets/favicon_1755589161457.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "9",
