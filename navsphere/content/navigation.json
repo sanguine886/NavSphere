@@ -967,7 +967,16 @@
           "icon": "Zap",
           "description": "游戏资源",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755594270719_qtebzyn73",
+              "title": "Official Pirate Bay: Trusted BitTorrent Mirror Site in 2024",
+              "href": "https://www.pirateproxy.space/",
+              "description": "Effortlessly access to The Pirate Bay: securely download music, movies, software, and games in 2024.",
+              "icon": "https://www.pirateproxy.space/images/pirat.jpg",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
