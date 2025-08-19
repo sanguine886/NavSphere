@@ -944,6 +944,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1755592447960",
+      "title": "米忽悠春物",
+      "icon": "FolderOpen",
+      "description": "来着群U的好东西",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
