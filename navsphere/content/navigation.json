@@ -977,6 +977,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "5d853977-c811-42d2-9241-0fef6668c8b0",
+          "title": "tools",
+          "icon": "Box",
+          "description": "工具资源",
+          "enabled": true,
+          "items": []
         }
       ]
     }
