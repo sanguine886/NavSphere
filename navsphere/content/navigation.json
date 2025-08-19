@@ -984,7 +984,16 @@
           "icon": "Box",
           "description": "工具资源",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755594736815_hfmmeyhkc",
+              "title": "Sakura Frp",
+              "href": "https://www.natfrp.com/",
+              "description": "Sakura Frp  | 樱花 是一个免费的内网穿透工具专业为您提供内网穿透,内网穿透服务,内网穿透软件,frp内网穿透,内网映射,Nat映射,端口映射,NAS,Minecraft的相关信息，想要了解更多详情，请联系我们。",
+              "icon": "https://www.natfrp.com/favicon.ico?v=2",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
