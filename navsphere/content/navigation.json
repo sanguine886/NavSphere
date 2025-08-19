@@ -949,6 +949,14 @@
           "description": "阅读APP源",
           "icon": "https://www.aoaostar.com/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1755594866133_76yh7ig6k",
+          "title": "Airportal",
+          "href": "https://www.airportal.cn/",
+          "description": "免U盘，在线文件快传",
+          "icon": "https://assets.retiehe.com/ap-icon-192-3.png",
+          "enabled": true
         }
       ],
       "subCategories": []
