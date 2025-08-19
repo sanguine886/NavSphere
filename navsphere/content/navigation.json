@@ -933,7 +933,16 @@
       "icon": "LayoutList",
       "description": "哆啦a梦百宝箱，下载链接专属",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1755591293069_ol4f0kkxk",
+          "title": "Memm设计",
+          "href": "https://drk3jhz5hb.feishu.cn/base/ZBmDbYu57aPvJwsNgk3c2LWpnwe",
+          "description": "Memm百宝箱",
+          "icon": "https://sf1-scmcdn-cn.feishucdn.com/obj/lark-reaction-cn/purple_baseV2.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
