@@ -926,6 +926,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1755591058403",
+      "title": "百宝箱",
+      "icon": "LayoutList",
+      "description": "哆啦a梦百宝箱，下载链接专属",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
