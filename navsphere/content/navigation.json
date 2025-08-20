@@ -973,6 +973,14 @@
           "description": "实时共享屏幕文件，只需打开网页，手机、电脑、平板... 跨设备快速传文件、传文本、传屏幕、传实时视频，64T超大文件传输，无限速无扫描。",
           "icon": "/assets/img_1755650296671.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755653647819_32qiee82c",
+          "title": "Ai去水印",
+          "href": "https://lightpdf.cn/image-watermark-remover",
+          "description": "去完截图，清晰度不佳使用提升清晰度工具即可",
+          "icon": "/assets/favicon_1755653498110.png",
+          "enabled": true
         }
       ],
       "subCategories": []
