@@ -971,7 +971,7 @@
           "title": "轻松传",
           "href": "https://easychuan.cn/",
           "description": "实时共享屏幕文件，只需打开网页，手机、电脑、平板... 跨设备快速传文件、传文本、传屏幕、传实时视频，64T超大文件传输，无限速无扫描。",
-          "icon": "https://static.easychuan.cn/assets/images/maskable_icon_x144.png",
+          "icon": "/assets/img_1755650296671.png",
           "enabled": true
         }
       ],
