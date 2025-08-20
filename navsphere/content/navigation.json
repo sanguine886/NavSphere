@@ -22,6 +22,14 @@
           "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
           "icon": "https://browse.sanguine.qzz.io/assets/images/alogo.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755675374027_bapjf2qid",
+          "title": "Tarot - 塔罗牌占卜",
+          "href": "https://tarot.sanguine.qzz.io/",
+          "description": "Tarot - 塔罗牌占卜",
+          "icon": "/assets/favicon_1755675368597.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
