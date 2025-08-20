@@ -981,6 +981,14 @@
           "description": "去完截图，清晰度不佳使用提升清晰度工具即可",
           "icon": "/assets/favicon_1755653498110.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755653674835_zwujxf3qi",
+          "title": "Designkit | 提升清晰度",
+          "href": "https://www.designkit.com/quality",
+          "description": "访问 www.designkit.com",
+          "icon": "/assets/favicon_1755653654080.png",
+          "enabled": true
         }
       ],
       "subCategories": []
