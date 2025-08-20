@@ -1040,6 +1040,14 @@
               "description": "",
               "icon": "https://v3.yuanshen.site/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755650552420_lbisk7fz8",
+              "title": "Honey Impact Wiki",
+              "href": "https://gensh.honeyhunterworld.com/",
+              "description": "Honey Impact | Genshin Impact Database Wiki - Honey Hunter World ，不看内鬼勿入",
+              "icon": "/assets/img_1755650488398.png",
+              "enabled": true
             }
           ]
         }
