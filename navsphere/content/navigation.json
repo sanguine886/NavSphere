@@ -30,6 +30,14 @@
           "description": "Tarot - 塔罗牌占卜",
           "icon": "/assets/favicon_1755675368597.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1755830638374_ht98ab48j",
+          "title": "sanguine-game共享文档",
+          "href": "https://docs.qq.com/sheet/DV3RocVp3Tk9JRnds?u=3477cfa200d045c7a7d60a65bd3ca3a0&no_promotion=1&tab=BB08J2",
+          "description": "Game-在线表格，催更请在群里at",
+          "icon": "/assets/favicon_1755830596013.png",
+          "enabled": true
         }
       ],
       "subCategories": []
