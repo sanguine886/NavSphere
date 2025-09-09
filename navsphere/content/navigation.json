@@ -367,6 +367,14 @@
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757402248540_vzgf1y4f9",
+              "title": "Ai-bot",
+              "href": "https://ai-bot.cn/",
+              "description": "访问 ai-bot.cn",
+              "icon": "/assets/favicon_1757402238441.png",
+              "enabled": true
             }
           ]
         },
